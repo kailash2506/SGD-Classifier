@@ -66,8 +66,11 @@ print(cm)
 
 ## Output:
 ![alt text](<EXP 07(1).png>)
+
 ![alt text](<EXP 07(2).png>)
+
 ![alt text](<EXP 07(3).png>)
+
 ![alt text](<EXP 07(4).png>)
 
 ## Result:
